@@ -3,9 +3,9 @@
 
     <string name="app_name">PocketSphinx Demo</string>
     
-    <string name="kws_caption">To start demonstration say \"oh mighty computer\".</string>
-    <string name="menu_caption">Say \"digits\", \"forecast\" or \"phones\" to choose the grammar, language model or phonetic decoder example.</string>
-    <string name="digits_caption">To try recognition of digits: say something like \"one two three four five\".</string>
-    <string name="forecast_caption">To try recognition of a weather forecast like \"sunny spells on Wednesday\".</string>
-    <string name="phone_caption">To try phonetic recognition say anything.</string>
+    <string name="kws_caption">要开实语音识别了，请说 \"he boy\".</string>
+    <string name="menu_caption">请说 \"digits\", \"forecast\" or \"phones\" 来选择 grammar(语法), language model or phonetic decoder example(语音解码器示例).</string>
+    <string name="digits_caption">要尝试识别数字，请说 \"one two three four five\".</string>
+    <string name="forecast_caption">尝试识别天气预报，请说 \"sunny spells on Wednesday\".</string>
+    <string name="phone_caption">尝试语音识别，请随意说些什么</string>
 </resources>
